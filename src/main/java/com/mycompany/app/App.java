@@ -15,5 +15,6 @@ public class App
         out.println(" After the git flow");
         out.println(" Now on development branch");
         out.println(" after feature, hot_fix branches");
+        out.println(" after JENKIN build");
     }
 }
