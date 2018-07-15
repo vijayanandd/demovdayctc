@@ -12,5 +12,6 @@ public class App
     {
         System.out.println( "Hello World!" );
         out.println(" Next modifications");
+        out.println(" After the git flow");
     }
 }
