@@ -14,5 +14,6 @@ public class App
         out.println(" Next modifications");
         out.println(" After the git flow");
         out.println(" Now on development branch");
+        out.println(" after feature, hot_fix branches");
     }
 }
