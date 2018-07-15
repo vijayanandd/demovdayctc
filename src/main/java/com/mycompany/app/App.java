@@ -16,5 +16,6 @@ public class App
         out.println(" Now on development branch");
         out.println(" after feature, hot_fix branches");
         out.println(" after JENKIN build");
+        out.println(" Auto trigger");
     }
 }
