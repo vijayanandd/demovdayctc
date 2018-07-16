@@ -17,8 +17,5 @@ public class App
         out.println(" after feature, hot_fix branches");
         out.println(" after JENKIN build");
         out.println(" Auto trigger");
-        out.println(" jenkin job to trigger from checking");
-        out.println(" jenkin job to trigger from checking - again");
-        out.println(" jenkin job to trigger from checking - again 2");
     }
 }
