@@ -19,5 +19,6 @@ public class App
         out.println(" Auto trigger");
         out.println(" jenkin job to trigger from checking");
         out.println(" jenkin job to trigger from checking - again");
+        out.println(" jenkin job to trigger from checking - again 2");
     }
 }
